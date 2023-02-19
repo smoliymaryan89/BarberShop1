@@ -312,8 +312,8 @@ body {
 /* PRICES */
 .prices-section {
   max-width: 1600px;
-  margin-right: 0;
-  margin-left: 0;
+  margin-right: auto;
+  margin-left: auto;
 
   background-color: var(--dark-price-bg-cl);
   background-image: url(../images/prices/prices-bg.png);
