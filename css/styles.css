@@ -89,6 +89,7 @@ body {
   width: 100%;
   padding-top: 32px;
   padding-bottom: 32px;
+  z-index: 100;
 
   transition: background-color 400ms ease-in, backdrop-filter 400ms ease-in;
 }
